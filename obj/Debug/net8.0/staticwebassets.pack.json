@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\JS\\cadastro.js",
+      "PackagePath": "staticwebassets\\JS\\cadastro.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\JS\\comentario.js",
+      "PackagePath": "staticwebassets\\JS\\comentario.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\JS\\script.js",
+      "PackagePath": "staticwebassets\\JS\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\cadastro.html",
+      "PackagePath": "staticwebassets\\cadastro.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\img\\almoco-de-quarta-feira.jpg",
+      "PackagePath": "staticwebassets\\img\\almoco-de-quarta-feira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\img\\opcao-de-almoco-1.webp",
+      "PackagePath": "staticwebassets\\img\\opcao-de-almoco-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\img\\strogonoff-pratico-de-frango-e-arroz.jpeg",
+      "PackagePath": "staticwebassets\\img\\strogonoff-pratico-de-frango-e-arroz.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\SaborMinas\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SaborMinas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SaborMinas.props",
+      "PackagePath": "build\\SaborMinas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SaborMinas.props",
+      "PackagePath": "buildMultiTargeting\\SaborMinas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SaborMinas.props",
+      "PackagePath": "buildTransitive\\SaborMinas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
